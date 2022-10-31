@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, we are Four Ninjas from PIE TECH</h1>
 <h3 align="center">Welcome to our project</h3>
-<a  href="https://ibb.co/xJZTfDQ"><img  src="https://i.ibb.co/qk6QWdw/1.png" alt="1" border="0"></a>
-<a href="https://ibb.co/gzQSR07"><img src="https://i.ibb.co/5BCrRQ9/2.png" alt="2" border="0"></a>
+<a  href="https://ibb.co/xJZTfDQ"><img  src="https://i.ibb.co/qk6QWdw/1.png" alt="Logo" width="1200" height="600"></a>
+<a href="https://ibb.co/gzQSR07"><img src="https://i.ibb.co/5BCrRQ9/2.png" alt="Logo" width="1200" height="600"></a>
 <br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49359-1660818174&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49359-1660818174" /> </p>
 
  🔭 We are working on project name **Plasma donor application**
