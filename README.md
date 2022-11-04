@@ -57,7 +57,7 @@
     
 # **💡Project design phase 2**
 <button>
-    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
 </button>
 
    **💬Data flow digrams and user stories**  
