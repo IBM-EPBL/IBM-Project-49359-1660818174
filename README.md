@@ -69,6 +69,25 @@
    **🧮User journry**     
     
 
+# **💡ASSIGNMENT**
+
+   **💬Data flow digrams and user stories**  
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-1(chandru).pdf   ">CLICK HERE!  </a>
+</button>
+   **📟functional requirments**        
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
+</button>
+   **🧠Technology stack**   
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
+</button>
+   **🧮User journry** 
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
+</button>
+
 
 <br>
  <h2>
