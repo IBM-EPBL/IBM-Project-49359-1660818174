@@ -30,7 +30,7 @@
 
 # **💬IDEATION PHASE**
 <button>
-    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
+    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237 ">CLICK HERE!  </a>
 </button>
 
    **🧠Brain strom and Ideation**  
