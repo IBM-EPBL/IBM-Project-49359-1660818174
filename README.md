@@ -71,20 +71,16 @@
 
 # **💡ASSIGNMENT**
 
-   **💬ASSIGNMENT-1**  
-<button>
+   **💬ASSIGNMENT-1**  &nbsp;	&nbsp;<button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-1(chandru).pdf   ">CLICK HERE!  </a>
 </button>
-   **📟ASSIGNMENT-2**        
-<button>
+   <br> **📟ASSIGNMENT-2**&nbsp;	&nbsp; <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-2(Chandru).pdf  ">CLICK HERE!  </a>
-</button>
-   **🧠ASSIGNMENT-3**   
-<button>
+     </button>
+   <br> **🧠ASSIGNMENT-3** &nbsp;	&nbsp;<button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-3(Chandru).pdf   ">CLICK HERE!  </a>
 </button>
-   **🧮ASSIGNMENT-4** 
-<button>
+   <br> **🧮ASSIGNMENT-4**&nbsp;	&nbsp; <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-4(Chandru).pdf   ">CLICK HERE!  </a>
 </button>
 
