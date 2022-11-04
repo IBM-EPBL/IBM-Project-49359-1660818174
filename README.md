@@ -30,7 +30,7 @@
 
 # **💬IDEATION PHASE**
 <button>
-    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237 ">CLICK HERE!  </a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Ideation%20Phase ">CLICK HERE!  </a>
 </button>
 
    **🧠Brain strom and Ideation**  
