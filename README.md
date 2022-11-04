@@ -12,7 +12,7 @@
 
  📫 We are looking to collaborate on **IBM- Naliya thiran**
  
- ⚡ How to reach me **chandrumurugasan@gmail.com 
+ ⚡ How to reach me **chandrumurugasan@gmail.com &nbsp;	&nbsp;
                       yuvarajpalanisamy002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,68 +22,52 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 		&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>		&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>	&nbsp; 	&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 	&nbsp;	&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 		&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>		&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;	&nbsp; <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>	&nbsp; 	&nbsp;<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 	&nbsp;	&nbsp;<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;	&nbsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> &nbsp;	&nbsp;<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp;	&nbsp;<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;	&nbsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>	&nbsp;	&nbsp; <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
+<br>
 
-# **💡PROJECT DESIGN & PLANNING**
+# **💡COMPLETED PROJECT AND TASKS**
+
 # **💬IDEATION PHASE**
-  **🧠Brain strom and Ideation**  
-  <button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>
-
-  **📟Empathy Map:**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>        
-   
-**💬Literature survey**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51">CLICK HERE!  </a>
-</button>        
-              
-**🧮PROBLEM STATEMENT**     
 <button>
     <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
-</button>     
+</button>
+
+   **🧠Brain strom and Ideation**  
+    
+   **📟Empathy Map:**   
+
+   **💬Literature survey**   
+       
+             
+   **🧮PROBLEM STATEMENT**     
+     
 
 # **💡Project design phase 1**
-  **💬Problem solution**  
-  <button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>
-
-  **📟proposed solution**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>        
-   
-**🧮Solution architecture**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51">CLICK HERE!  </a>
-</button>        
-              
-    
-# **💡Project design phase 2**
-  **💬Data flow digrams and user stories**  
-  <button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>
-
-  **📟functional requirments**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/dustman6223/1664079106945?sender=u6b7ea29e002e68fc55c83285&key=8bbced52-3b28-4631-b925-bc5ff2e6c22a  ">CLICK HERE!  </a>
-</button>        
-   
-**🧠Technology stack**   
-<button>
-    <a href="https://app.mural.co/invitation/mural/gogulkrish6500/1664783545250?sender=u1442bd002065f0c4d0984849&key=d7cc03dd-1efa-416e-9093-6ae0589d1f51">CLICK HERE!  </a>
-</button>        
-              
-**🧮User journry**     
 <button>
     <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
-</button>     
+</button>
+
+   **💬Problem solution**  
+
+   **📟proposed solution**           
+   
+   **🧮Solution architecture**   
+                      
+    
+# **💡Project design phase 2**
+<button>
+    <a href="https://miro.com/app/board/uXjVPT9Yf8M=/?share_link_id=753624075237   ">CLICK HERE!  </a>
+</button>
+
+   **💬Data flow digrams and user stories**  
+
+   **📟functional requirments**        
+    
+   **🧠Technology stack**   
+              
+   **🧮User journry**     
+    
 
 
 <br>
