@@ -66,9 +66,28 @@
     
    **🧠Technology stack**   
               
-   **🧮User journry**     
-    
+   **🧮User journry**    
+   
+# **💬Project Planning Phase**
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Planning%20Phase ">CLICK HERE!  </a>
+</button>
 
+   **🧠Milestone and Activity List**  
+    
+   **📟Sprint Delivery Plan**   
+
+# **💬Setting up Application Environment**
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Setting%20Up%20Application%20Evironment ">CLICK HERE!  </a>
+</button>
+
+   **🧠Create Flask Project**  
+    
+   **📟Docker CLI Installation**
+   
+   **📫Install IBM Cloud CLI**  
+    
 # **💡ASSIGNMENT**
 
    **💬ASSIGNMENT-1**  &nbsp;	&nbsp;<button>
@@ -78,7 +97,7 @@
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-2(Chandru).pdf  ">CLICK HERE!  </a>
      </button>
    <br> **🧠ASSIGNMENT-3** &nbsp;	&nbsp;<button>
-    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-3(Chandru).pdf   ">CLICK HERE!  </a>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-3(Chandru).pdf  ">CLICK HERE!  </a>
 </button>
    <br> **🧮ASSIGNMENT-4**&nbsp;	&nbsp; <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-4(Chandru).pdf   ">CLICK HERE!  </a>
