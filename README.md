@@ -50,9 +50,9 @@
 
    **💬Problem solution**  
 
-   **📟proposed solution**           
+   **⚠️proposed solution**           
    
-   **🧮Solution architecture**   
+   **⚓Solution architecture**   
                       
     
 # **💡Project design phase 2**
@@ -60,11 +60,11 @@
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Design%20Phase-2   ">CLICK HERE!  </a>
 </button>
 
-   **💬Data flow digrams and user stories**  
+   **📝Data flow digrams and user stories**  
 
-   **📟functional requirments**        
+   **🎯functional requirments**        
     
-   **🧠Technology stack**   
+   **🧩Technology stack**   
               
    **🧮User journry**    
    
@@ -73,33 +73,33 @@
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Planning%20Phase ">CLICK HERE!  </a>
 </button>
 
-   **🧠Milestone and Activity List**  
+   **🚩Milestone and Activity List**  
     
-   **📟Sprint Delivery Plan**   
+   **♻️Sprint Delivery Plan**   
 
 # **💬Setting up Application Environment**
 <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Setting%20Up%20Application%20Evironment ">CLICK HERE!  </a>
 </button>
 
-   **🧠Create Flask Project**  
+   **🖥️Create Flask Project**  
     
-   **📟Docker CLI Installation**
+   **🔌Docker CLI Installation**
    
    **📫Install IBM Cloud CLI**  
     
-# **💡ASSIGNMENT**
+# **🛒ASSIGNMENT**
 
-   **💬ASSIGNMENT-1**  &nbsp;	&nbsp;<button>
+   **🧷ASSIGNMENT-1️⃣**  &nbsp;	&nbsp;<button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-1(chandru).pdf   ">CLICK HERE!  </a>
 </button>
-   <br> **📟ASSIGNMENT-2**&nbsp;	&nbsp; <button>
+   <br> **🧷ASSIGNMENT-2️⃣**&nbsp;	&nbsp; <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-2(Chandru).pdf  ">CLICK HERE!  </a>
      </button>
-   <br> **🧠ASSIGNMENT-3** &nbsp;	&nbsp;<button>
+   <br> **🧷ASSIGNMENT-3️⃣** &nbsp;	&nbsp;<button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-3(Chandru).pdf  ">CLICK HERE!  </a>
 </button>
-   <br> **🧮ASSIGNMENT-4**&nbsp;	&nbsp; <button>
+   <br> **🧷ASSIGNMENT-4️⃣**&nbsp;	&nbsp; <button>
     <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Assignment/Team%20M-2%20(Chandru)/Assignment-4(Chandru).pdf   ">CLICK HERE!  </a>
 </button>
 
@@ -130,4 +130,4 @@
  <h5> Made with <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="12" height="12">
-</picture> in India | <b>pollachi institute of Engineering and technology College</b> </h5>
+</picture> in India🏳️‍🌈 | <b>pollachi institute of Engineering and technology College</b> </h5>
