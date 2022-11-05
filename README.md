@@ -12,8 +12,8 @@
 
  📫 We are looking to collaborate on **IBM- Naliya thiran**
  
- ⚡ How to reach me **chandrumurugasan@gmail.com &nbsp;	&nbsp;
-                      yuvarajpalanisamy002@gmail.com**
+ ⚡ How to reach me&nbsp;	&nbsp **:octocat:chandrumurugasan@gmail.com &nbsp;	&nbsp;
+                      :trollface:	yuvarajpalanisamy002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
