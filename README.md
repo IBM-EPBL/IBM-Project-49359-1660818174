@@ -12,7 +12,7 @@
 
  📫 We are looking to collaborate on **IBM- Naliya thiran**
  
- ⚡ How to reach me&nbsp;	&nbsp **:octocat:chandrumurugasan@gmail.com &nbsp;	&nbsp;
+ ⚡ How to reach me   **:octocat:chandrumurugasan@gmail.com &nbsp;	&nbsp;
                       :trollface:	yuvarajpalanisamy002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
