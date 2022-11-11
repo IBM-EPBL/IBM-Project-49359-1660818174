@@ -8,7 +8,7 @@
 
  🔭 We are working on project name **Plasma donor application**
 
- 💬 We are currently learning **Deployment of application in IBM cloud**
+ 💬 We are currently learning **Deployment of application in IBM Cloud**
 
  📫 We are looking to collaborate on **IBM- Naliya thiran**
  
