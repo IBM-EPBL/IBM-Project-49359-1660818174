@@ -1,6 +1,6 @@
 from flask import Flask,render_template, request, redirect, url_for, session
 import ibm_db
-conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=98538591-7217-4024-b027-8baa776ffad1.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud;PORT=30875;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=tqj08800;PWD=UKFB37LGZ3q0xHGy",'','')
+conn = ibm_db.connect("DATABASE=bludb;HOSTNAME=19af6446-6171-4641-8aba-9dcff8e1b6ff.c1ogj3sd0tgtu0lqde00.databases.appdomain.cloud;PORT=30699;SECURITY=SSL;SSLServerCertificate=DigiCertGlobalRootCA.crt;UID=tqj08800;PWD=UKFB37LGZ3q0xHGy",'','')
 
 app = Flask(__name__)
 
