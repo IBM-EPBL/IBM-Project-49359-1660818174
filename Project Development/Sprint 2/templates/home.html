@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en"  dir="ltr">
+<head>
+
+    <title>Plasma Donor Application</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style2.css')}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+   
+    
+
+
+</head>
+<body1 >
+  <header>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="menu">
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                    <li><a href="about">ABOUT</a></li>
+                    <li><a href="loginn">LOGIN</a></li>
+                    <li><a href="reques">REQUEST</a></li>
+                    <li><a href="donor">DONATE</a></li>
+                </ul>
+            </div>
+
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="Type To text">
+                <a href="#"> <button class="btn">Search</button></a>
+            </div>
+
+        </div> 
+    </header>
+
+   
+        <div class="slideshow-container">
+
+            <div class="mySlides fade">
+              <div class="numbertext"></div>
+              <img src="{{ url_for('static',filename= 'banner1.jpg') }}" style="width:100%" height="500px">
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext"></div>
+              <img src="{{ url_for('static',filename= 'banner2.jpg') }}" style="width:100%" height="500px">
+            
+            </div>
+            
+            <div class="mySlides fade">
+              <div class="numbertext"></div>
+              <img src="{{ url_for('static',filename= 'banner3.jpg') }}" style="width:100%" height="500px">
+            </div>
+            </div>
+            <div style="text-align:center">
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+                <span class="dot"></span> 
+              </div>
+            
+            </div>
+            
+              <script>
+                let slideIndex = 0;
+                showSlides();
+                
+                function showSlides() {
+                  let i;
+                  let slides = document.getElementsByClassName("mySlides");
+                  let dots = document.getElementsByClassName("dot");
+                  for (i = 0; i < slides.length; i++) {
+                    slides[i].style.display = "none";  
+                  }
+                  slideIndex++;
+                  if (slideIndex > slides.length) {slideIndex = 1}    
+                  for (i = 0; i < dots.length; i++) {
+                    dots[i].className = dots[i].className.replace(" active", "");
+                  }
+                  slides[slideIndex-1].style.display = "block";  
+                  dots[slideIndex-1].className += " active";
+                  setTimeout(showSlides, 2000); // Change image every 2 seconds
+                }
+    </script>
+    
+  
+    <!-- <div class="content1">
+        <div class="text">Fully Responsive Footer Section</div>
+        <div class="p">HTML and CSS (Flexbox)</div>
+      </div> -->
+      <footer>
+        <div class="main-content">
+          <div class="leftbox">
+            <h2 style="color:#fff;">About us</h2>
+            <div class="content2" style="color:#fff;">
+              <p>Plasma Donor is an application exclusively made for<br>
+                 the recipients who are in search of plasma for operations, <br>
+                 Covid, cancer and many other causes and the donors who <br>
+                 are interested to donate their plasma to save other lives.
+              </p>
+              <div class="social">
+                <a href="#"><span class="fab fa-facebook-f"></span></a>
+                <a href="#"><span class="fab fa-twitter"></span></a>
+                <a href="#"><span class="fab fa-instagram"></span></a>
+                <a href="#"><span class="fab fa-youtube"></span></a>
+              </div>
+            </div>
+          </div>
+      
+          <div class="rightbox">
+            <h2 style="color:#fff;">Contact us</h2>
+            <div class="content3">
+              <form action="#">
+                <div class="email">
+                  <div class="text">Email </div>
+                  <input type="email" placeholder="Email" required>
+                </div> 
+                <div class="msg">
+                  <div class="text">Message</div>
+                  <textarea rows="2" cols="25" placeholder="Message" required></textarea>
+                </div> 
+                <div class="btn">
+                  <button type="submit">Send</button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+
+        <div class="bottom">
+          <center>
+            <span class="credit">Created By <a href="#">avc college </a> |</span>
+            <span class="far fa-copyright"></span><span> 2022 All rights reserved.</span>
+          </center>
+        </div>
+      </footer>
+    </body>
+  </html>
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js">
+ 
+    
+    </script>
+</body1>
+</html>

@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en"  dir="ltr">
+<head>
+
+    <title>Plasma Donor Application</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style1.css')}}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+     <style>
+          button{
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color: #fff;
+    background: #573b8a;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transition: .2s ease-in;
+    cursor: pointer;
+    }
+    button:hover{
+    background: #6d44b8;
+    }
+     </style>
+    
+
+
+</head>
+<body1>
+
+    <div class="main">
+        <div class="navbar">
+            <div class="menu">
+                <ul>
+                    <li><a href="/">HOME</a></li>
+                    <li><a href="about">ABOUT</a></li>
+                    <li><a href="loginn">LOGIN</a></li>
+                    <li><a href="reques">REQUEST</a></li>
+                    <li><a href="donor">DONATE</a></li>
+                </ul>
+            </div>
+
+            <div class="search">
+                <input class="srch" type="search" name="" placeholder="Type To text">
+                <a href="#"> <button class="btn">Search</button></a>
+            </div>
+
+        </div> 
+        <br>
+
+        <div class="plasmareq">
+          <h1 style="color:rgb(127, 95, 185);" align="center">PLASMA RECEIPIENT</h1>
+  
+          <!-- Create Form -->
+          <form id="form" action = "{{ url_for('plasmareq') }}" method = "POST">
+       
+              <!-- Details -->
+              <div class="form-control">
+                  <label for="name" id="label-name">
+                      NAME
+                  </label>
+       
+                  <!-- Input Type Text -->
+                  <input type="text"
+                         name="name"
+                         placeholder="Enter your name" />
+              </div>
+        
+              <div class="form-control">
+                  <label for="email" id="label-email">
+                      EMAIL
+                  </label>
+       
+                  <!-- Input Type Email-->
+                  <input type="email"
+                         name="email"
+                         placeholder="Enter your email" />
+              </div>
+        
+              <div class="form-control">
+                  <label for="phone" id="label-age">
+                      PHONE
+                  </label>
+       
+                  <!-- Input Type Text -->
+                  <input type="text"
+                         name="phone"
+                         placeholder="Enter your phone number" />
+              </div>
+
+              <div class="form-control">
+                <label for="bgrp" id="label-bgrp">
+                    BLOOD GROUP
+                </label>
+     
+                <!-- Input Type Text -->
+                <input type="text"
+                       name="bloodgroup"
+                       placeholder="Enter your blood group" />
+            </div>
+            <div class="form-control">
+                <label for="date">
+                    DATE
+                </label>
+     
+                <!-- multi-line text input control -->
+                <input type="date" name="date" id="date"> 
+
+            </div>
+        
+              
+              <div class="form-control">
+                  <label for="address">
+                      ADDRESS
+                  </label>
+       
+                  <!-- multi-line text input control -->
+                  <textarea name="address" id="address"
+                      placeholder="Enter your address here">
+                  </textarea>
+              </div>
+
+              <div class="form-control">
+                <label for="address">
+                    DISTRICT
+                </label>
+     
+                <!-- multi-line text input control -->
+                <input type="text" name="district" id="dist"
+                    placeholder="Enter your district here">
+            </div>
+
+            <div class="form-control">
+                <label for="address">
+                    STATE
+                </label>
+     
+                <!-- multi-line text input control -->
+                <input type="text" name="state" id="state"
+                    placeholder="Enter your state here">
+            </div>
+
+            <div class="form-control">
+                <label for="age" id="label-age">
+                    AGE
+                </label>
+     
+                <!-- Input Type Text -->
+                <input type="text"
+                       name="age"
+                       placeholder="Enter your age" />
+            </div>
+        
+              <!-- Multi-line Text Input Control -->
+              <button>SUBMIT</button>
+              </form>
+
+
+
+
+        </div>
+
+
+
+        <br>
+
+        <footer>
+            <div class="main-content">
+              <div class="leftbox">
+                <h2 style="color:#fff;">About us</h2>
+                <div class="content2" style="color:#fff;">
+                  <p>Plasma Donor is an application exclusively made for<br>
+                     the recipients who are in search of plasma for operations, <br>
+                     Covid, cancer and many other causes and the donors who <br>
+                     are interested to donate their plasma to save other lives.
+                  </p>
+                  <div class="social">
+                    <a href="#"><span class="fab fa-facebook-f"></span></a>
+                    <a href="#"><span class="fab fa-twitter"></span></a>
+                    <a href="#"><span class="fab fa-instagram"></span></a>
+                    <a href="#"><span class="fab fa-youtube"></span></a>
+                  </div>
+                </div>
+              </div>
+
+              <div class="rightbox">
+                <h2 style="color:#fff;">Contact us</h2>
+                <div class="content3">
+                  <form action="#">
+                    <div class="email">
+                      <div class="text">Email </div>
+                      <input type="email" placeholder="Email" required>
+                    </div>
+                    <div class="msg">
+                      <div class="text">Message</div>
+                      <textarea rows="2" cols="25" placeholder="Message" required></textarea>
+                    </div>
+                    <div class="btn">
+                      <button type="button" class="btn btn-light">Send</button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+
+            <div class="bottom">
+               <center>
+                <span class="credit">Created By <a href="#">avc college </a> |</span>
+                <span class="far fa-copyright"></span><span> 2022 All rights reserved.</span>
+              </center>
+            </div>
+          </footer>
+        
+      
+
+        
+        
+        
+       
+        
+    
+    <script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+</body1>
+</html>
