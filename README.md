@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are Four Ninjas from PIE TECH</h1>
 <h3 align="center"><b>Welcome to our project</b></h3>
-<a  href="https://ibb.co/xJZTfDQ"><img  src="https://i.ibb.co/qk6QWdw/1.png" alt="Logo" width="1200" height="600"></a>
-<a href="https://ibb.co/gzQSR07"><img src="https://i.ibb.co/5BCrRQ9/2.png" alt="Logo" width="1200" height="600"></a>
+<a  href="https://ibb.co/xJZTfDQ"><img  src="https://i.ibb.co/qk6QWdw/1.png" alt="Logo" width="1280" height="500"></a>
+<a href="https://ibb.co/gzQSR07"><img src="https://i.ibb.co/5BCrRQ9/2.png" alt="Logo" width="1280" height="500"></a>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibm-project-49359-1660818174&label=Profile%20views&color=0e75b6&style=flat" alt="ibm-project-49359-1660818174" /> </p>
@@ -87,6 +87,17 @@
    **🔌Docker CLI Installation**
    
    **📫Install IBM Cloud CLI**  
+
+# **💬Project Development Phase**
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Project-Design%20%26%20Planning/Project%20Planning%20Phase ">CLICK HERE!  </a>
+</button>
+
+   **🚩Sprint 1**  
+    
+   **🚩Sprint 2**   
+
+
     
 # **🛒ASSIGNMENT**
 
