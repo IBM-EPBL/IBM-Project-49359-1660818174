@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Plasma Donar App</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+  <!link rel="stylesheet" href="style.css">
+</head>
+<style>
+		.big{
+		top:70;
+		background-color:white;
+		margin-top:80px;
+		margin-left:550px;
+		margin-right:550px;
+		height:200px;
+		border-radius: 25px;
+		border: 3px solid #4a77d4;
+		box-shadow: 6px 8px 4px grey;
+		text-align:center;
+		}
+		.row{
+		
+		height:150px;
+		
+		}
+		.col{
+			margin:10px;
+			margin-left:50px;	
+			margin-right:50px;
+			border-radius: 25px;
+			border: 1px solid #4a77d4;
+			box-shadow: 0px 8px 4px grey;
+			text-align:center;
+		}
+		.ext{
+		margin-top:25px;
+		line-height:40px;
+		}
+		.ext1{
+		margin-top:40px;
+		line-height:50px;
+		font-size:25px;
+		color:#f95450;
+		}
+		
+</style>
+<body>
+
+<div class="container-fluid">
+<div class="header">
+<div><b>Plasma Donar App</b></div>
+<ul>
+		<li><a href="/requester">Request</a></li>
+		<li><a class="active" href="/login">Home</a></li>
+	</ul>
+</div>
+  <br>
+  <div class="big">
+    <div class="box">
+		<div class="ext1"><font size="20px">{{b}}</font><br><b>Donors</b></div>
+	</div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col" >
+		<div class="ext">{{b1}}<br><b>O Positive</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b2}}<br><b>A Positive</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b3}}<br><b>B Positive</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b4}}<br><b>AB Positive</b></div>
+	</div>
+  </div>
+  <br>
+  <div class="row">
+    <div class="col" >
+		<div class="ext">{{b5}}<br><b>O Negative</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b6}}<br><b>A Negative</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b7}}<br><b>B Negative</b></div>
+	</div>
+    <div class="col" >
+		<div class="ext">{{b8}}<br><b>AB Negative</b></div>
+	</div>
+  </div>
+</div>
+</body>
+</html>
