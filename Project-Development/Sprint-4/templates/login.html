@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>Plasma Donor App</title>
+	<link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="{{ url_for('static', filename='style1.css') }}">
+	<!link rel="stylesheet" href="style.css">
+
+<style>
+.login{
+top: 20%;
+}
+</style>
+</head>
+
+<body>
+<div class="background-image"></div>
+<div class="header">
+<div>Plasma Donor App</div>
+	<ul>
+		
+		
+		
+		<li><a href="/registration">Register</a></li>
+		<li><a class="active" href="/login">Home</a></li>
+		<li><a href="/about">About</a></li>
+	</ul>
+</div>
+ <div class="login" >
+		<div>
+		</div>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('loginpage')}}"method="post">
+    	<input type="text" name="user" placeholder="Enter UserName" required="required" style="color:black" />
+        <input type="password" name="passw" placeholder="Enter Password" required="required" style="color:black" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Login</button>
+    
+    </form>
+<br><br>
+<div style="color:black">
+ {{ pred }}</div>
+ </div>
+
+</body>
+
+<style>
+	* {
+		margin: 0;
+		padding: 0;
+	}
+	.background-image {
+		background-image: url('https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/blob/main/Final-deliver(on-testing)/img/hospital-backgroung-img.jpg?raw=true');
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 100vh;
+	}
+</style>
+</html>
+
