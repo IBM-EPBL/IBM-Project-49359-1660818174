@@ -1,0 +1,103 @@
+.loader_bg{
+  position: fixed;
+  z-index: 999999;
+  background: rgb(183, 182, 182);
+  width: 100%;
+  height: 100%;
+}
+.loader{
+  border: 0 soild transparent;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: calc(50vh - 75px);
+  left: calc(50vw - 75px);
+}
+.loader:before, .loader:after{
+  content: '';
+  /* border: 1em solid #ff5733; */
+  border: 1em solid #e03c33;
+  border-radius: 50%;
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: loader 1s linear infinite;
+  opacity: 0;
+}
+.loader:before{
+  animation-delay: .5s;
+}
+@keyframes loader{
+  0%{
+      transform: scale(0);
+      opacity: 0;
+  }
+  50%{
+      opacity: 1;
+  }
+  100%{
+      transform: scale(1);
+      opacity: 0;
+  }
+}
+
+body{
+  background-image: url('https://thumbs.dreamstime.com/b/doctor-hospital-background-copy-space-doctor-hospital-background-copy-space-healthcare-medical-concept-108682352.jpg');
+  background-size: 100% 100%;
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:rgb(250, 250, 250);
+  text-align: center; 
+  text-decoration: none;
+}
+
+table{
+  font-family: Calibri; 
+  color:rgb(3, 3, 3); 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  /* text-align:;  */
+  background-color: none;
+  border-collapse: collapse; 
+  border: none;
+  border-radius: 15px;
+}
+table.inner{
+  border: 0px
+}
+
+form{
+	margin-top :30px;
+	width: 35rem;
+	height: 35rem;
+	display: flex;
+	flex-direction: column;
+	background: rgba(255,255,255,0.06);
+	box-shadow: 0 8px 32px 0 rgba(31,38,135,.40);
+	border-radius: 35px;
+	border: 1px solid rgba(255,255,255,0.3);
+	
+}
+
+
+button a:visited { text-decoration: none; color:#000000;}
+
+button a:hover { text-decoration: none; color:#000000; }
+
+a:active { text-decoration: none; }
+
+a:link { text-decoration: none;}
+a:visited { text-decoration: none; color:#000000;}
+a:hover { text-decoration: none; color:#000000; }
+
+p{
+  color: white;
+}

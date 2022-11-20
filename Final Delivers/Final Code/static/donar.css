@@ -1,0 +1,112 @@
+.loader_bg{
+    position: fixed;
+    z-index: 999999;
+    background: rgb(51, 50, 50);
+    width: 100%;
+    height: 100%;
+}
+.loader{
+    border: 0 soild transparent;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: calc(50vh - 75px);
+    left: calc(50vw - 75px);
+}
+.loader:before, .loader:after{
+    content: '';
+    /* border: 1em solid #ff5733; */
+    border: 1em solid #1e80f0;
+    border-radius: 50%;
+    width: inherit;
+    height: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    animation: loader 2s linear infinite;
+    opacity: 0;
+}
+.loader:before{
+    animation-delay: .5s;
+}
+@keyframes loader{
+    0%{
+        transform: scale(0);
+        opacity: 0;
+    }
+    50%{
+        opacity: 1;
+    }
+    100%{
+        transform: scale(1);
+        opacity: 0;
+    }
+}
+
+
+.marquee{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    background-color:brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:yellow;
+}
+
+.foot{
+    /* background-color: tan; 
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmqsCvqR0xeXRdsFzmPYw40ZhBIk4M0SUmHQ&usqp=CAU');*/
+    background-image: url('	https://img.lovepik.com//back_pic/05/64/03/535b618c44b9dde.jpg_wh860.jpg'); */
+    background-image: height: 800;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h3{
+    color: #ffee05;
+}
+
+table{
+    font-family: Calibri; 
+    color:rgb(253, 1, 1); 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    /* text-align:;  */
+    background-color: none;
+    border-collapse: collapse; 
+    border: none;
+    border-radius: 15px;
+  }
+  table.inner{
+    border: 0px
+  }
+  
+  form{
+      margin-top :25px;
+      width: 35rem;
+      height: 35rem;
+      display: flex;
+      flex-direction: column;
+      background: rgba(255,255,255,0.06);
+      box-shadow: 0 8px 32px 0 rgba(31,38,135,.40);
+      border-radius: 35px;
+      border: 1px solid rgba(255,255,255,0.3);
+      
+  }
+
+button a:link { 
+    text-decoration: none;
+    color: white;
+}
+button a:visited { text-decoration: none; color:#ffffff;}
+
+button a:hover { text-decoration: none; color:#ffffff; }
+
+a:active { text-decoration: none; }
+
+p{
+    color: #ffffff;
+}
+

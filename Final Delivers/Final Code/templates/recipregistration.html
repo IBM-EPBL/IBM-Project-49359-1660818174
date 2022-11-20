@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Recipient sign-up</title>
+  <link rel="stylesheet" type="text/css" href="../static/reciptreg.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html>
+<head>
+
+</head>
+ 
+<body>
+  <div class="loader_bg">
+    <div class="loader"></div>
+  </div>
+  <center>
+
+    <h3>RECIPIENT SIGN-UP</h3>
+    <center><p>{{msg}}</p></center>
+     <form action="{{ url_for('recipientrec') }}" method="POST"> 
+ 
+      <!--  -->
+
+<table align="center" cellpadding = "10">
+ 
+<!----- First Name ---------------------------------------------------------->
+<tr>
+<td>FIRST NAME</td>
+<td><input type="text" name="fname" id="finame" maxlength="30" required/>
+(max 30 characters a-z and A-Z)
+</td>
+</tr>
+ 
+<!----- Last Name ---------------------------------------------------------->
+<tr>
+<td>LAST NAME</td>
+<td><input type="text" name="lname" id="liname" maxlength="30" required/>
+(max 30 characters a-z and A-Z)
+</td>
+</tr>
+ 
+<!----- Date Of Birth -------------------------------------------------------->
+<tr>
+<td>DATE OF BIRTH</td>
+ 
+<td>
+<input type="date" name="dob" id="day" required/>
+
+</select>
+</td>
+</tr>
+ 
+<!----- Email Id ---------------------------------------------------------->
+<tr>
+<td>EMAIL ID</td>
+<td><input type="text" name="email" id="mail" maxlength="100" required/></td>
+</tr>
+ 
+<!----- Mobile Number ---------------------------------------------------------->
+<tr>
+<td>MOBILE NUMBER</td>
+<td>
+<input type="text" name="mnumb" id="numb" maxlength="10" required/>
+(10 digit number)
+</td>
+</tr>
+ 
+<!----- Gender ----------------------------------------------------------->
+<tr>
+<td>GENDER</td>
+<td>
+<input type="radio" name="gender" value="Male" />Male 
+<input type="radio" name="gender" value="Female" />Female 
+</td>
+</tr>
+ 
+<!----- Address ---------------------------------------------------------->
+<tr>
+<td>ADDRESS <br /><br /><br /></td>
+<td><textarea name="address" rows="4" cols="30"></textarea></td>
+</tr>
+ 
+<!----- City ---------------------------------------------------------->
+<!-- <tr>
+<td>CITY</td>
+<td><input type="text" name="City" maxlength="30" />
+(max 30 characters a-z and A-Z)
+</td>
+</tr> -->
+ 
+<!----- Pin Code ---------------------------------------------------------->
+<tr>
+<td>PIN CODE</td>
+<td><input type="text" name="pin" id="ipin" maxlength="6" />
+(6 digit number)
+</td>
+</tr>
+ 
+<!----- State ---------------------------------------------------------->
+<tr>
+<td>PASSWORD</td>
+<td><input type="password" name="password" id="pass" maxlength="12" required/>
+<!-- (max 30 characters a-z and A-Z) -->
+</td>
+</tr>
+ 
+<!----- Country ---------------------------------------------------------->
+<tr>
+<td>CONFIRM PASSWORD</td>
+<td><input type="password" name="cpassword" id="cpass" required></td>
+</tr>
+   
+<!----- Submit and Reset ------------------------------------------------->
+<tr>
+<td colspan="2" align="center">
+  <!-- <button type="button" class="btn btn-outline-success"><a href="/recipientlogin">Submit</a></button> -->
+  <input type="submit" value="Submit">
+
+</td>
+</tr>
+</table>
+
+<!-- <button  type="button" class="w3-button w3-green" value="Submit">Submit</button>
+<button type="button" class="w3-button w3-light-green" value="Reset">Reset</button> -->
+ 
+</form>
+</center>
+</body>
+<script>
+  function validateForm(){
+    var returnval=true;
+    clearErrors();
+    var finame=document.forms['recipt']["fname"].value;
+    if(finame.length==0){
+        alert("first name must be filled out");
+        return false;  
+    }
+
+    var liname=document.forms['recipt']["lname"].value;
+    if(liname.length==0){
+        alert("last name must be filled out");
+        return false; 
+    } 
+
+    var mail=document.forms['recipt']["email"].value;
+    if(mail.length==0){
+        alert("Email required!");
+        return false;
+    }
+
+    var numb=document.forms['recipt']["mnumb"].value;
+    if(numb.length<10){
+        alert("Mobile number Invalid!");
+        return false;
+    }
+
+    // var pass = document.getElementById("password");  
+    // var cpass = document.getElementById("cpassword"); 
+    var pass = document.forms['recipt']["password"].value;  
+    var cpass = document.forms['recipt']["cpassword"].value;  
+    if(pass != cpass)  
+    {   
+      alert("Passwords did not match");  
+    } else {  
+      alert("Password created successfully");  
+  }  
+
+  }
+
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+	setTimeout(function(){
+		$('.loader_bg').fadeToggle();
+	}, 1600);
+  </script>
+</html>
+<!-- partial -->
+  
+</body>
+</html>

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Admin sign-up</title>
+	  <link rel="stylesheet" href="../static/adminreg.css" />
+  </head>
+  <body>
+    <h1>Admin sign-up</h1>
+    <form name="admin" action="adminlogin.html" onsubmit="return validateForm()" method='post'>
+      <fieldset>
+        <label>Enter Your Hospital/ Institution Name: <input type="text" name="hname" id="hiname" required /></label>
+        <label>Enter Register-Id: <input type="text" name="regid" id="reg" required /></label>
+        <label>Enter Your Email: <input type="email" name="email" id="mail" required /></label>
+        <label>Enter User-id: <input type="text" name="Userid" id="user" required /></label>
+        <label>Create a New Password: <input type="password" name="password" id="ipass"  required pattern="[a-zA-Z0-9]+" /></label>
+      </fieldset>
+      <fieldset>
+        <input type="radio" name="account-type" class="inline" /> Hospital &nbsp;&nbsp; <input type="radio" name="account-type" class="inline" /> Medical Institution
+        <label>
+          <input type="checkbox" name="terms" class="inline" required /> I accept the <a href="#">terms and conditions</a>
+			  </label>
+      </fieldset>
+      <center>
+      <button class="btn btn-success btn-lg"><a href="/adminlogin">Submit</a></button></center>
+    </form>
+  </body>
+  <script>
+    function validateForm(){
+    var hname=document.admin.hname.value;
+    if(hname.length==0 || hname==""){
+        alert("Hospital name must be filled out");
+        return false;  
+    }
+
+    var regid=document.admin.regid.value;
+    if(reg.length==0 || regid.length < 6){
+        alert("Register-Id required!");
+        return false;
+    }
+
+    var email=document.admin.email.value;
+    if(email.length==0){
+        alert("Email required!");
+        return false;
+    }
+
+    var Userid=document.admin.Userid.value;
+    if(userid.length==0){
+        alert("User-Id required!");
+        return false;
+    }
+
+    var password=document.admin.password.value;
+    if(password.length < 8){
+        alert("condition not satisfied");
+        return false;
+    }
+
+  }
+  </script>
+
+  
+
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Recipient Login</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<link rel="stylesheet" href="../static/logincss.css">
+
+</head>
+<center><h4>{{msg}}</h4></center>
+<body>
+  <div class="loader_bg">
+    <div class="loader"></div>
+    </div>
+<!-- partial:index.partial.html -->
+<div id="login-form-wrap">
+  <h2>Recipient Login</h2>
+  <form id="login-form">
+    <p>
+    <input type="text" id="email" name="email" placeholder="email" required><i class="validation"><span></span><span></span></i>
+    </p>
+    <p>
+    <input type="password" id="password" name="password" placeholder="password" required><i class="validation"><span></span><span></span></i>
+    </p>
+    <p>
+    <!-- <button type="submit" id="login" class="btn btn-primary" value="Login">LOGIN</button> -->
+    <a href="/recipient">
+      <button type="button" class="btn btn-success">Log in</button>
+      </a>
+    </p>
+  </form>
+  <div id="create-account-wrap">
+    <p>Are you New ? <a href="/recipregistration">Create Account</a><p>
+  </div><!--create-account-wrap-->
+</div><!--login-form-wrap-->
+<!-- partial -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script>
+  setTimeout(function(){
+      $('.loader_bg').fadeToggle();
+  }, 1600);
+</script>
+</body>
+</html>
