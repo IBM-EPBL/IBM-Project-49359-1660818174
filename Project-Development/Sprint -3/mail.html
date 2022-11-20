@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mail Port</title>
+</head>
+<body>
+    <center>
+    <div class="email" >
+        <form name="mail">
+            From : <input type="text" value="chandrumurugasan@gmail.com">
+            <br>
+            To : <input type="text" value="">
+            <br>
+            Message : <br>
+            <textarea name="msg" rows="6" cols="20" ></textarea><br>
+            <center>
+                <!-- <input type="send" value=" &nbsp; &nbsp; &nbsp; &nbsp;Send"> -->
+                <button type="button" class="btn btn-primary">Send</button></center>
+        </form>
+    </div>
+</center>
+<a href="/admin">
+    <button style="margin-left: 20px;" type="button" class="btn btn-success">Go Back</button></a>
+
+</body>
+<style>
+    body{
+        background-image: url('https://regmedia.co.uk/2020/05/07/shutterstock_email_storm.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    input[type=button], input[type=send], input[type=reset] {
+    background-color: #04AA6D;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+    form{
+        margin-top: 150px;
+	    width: 35rem;
+	    height: 22rem;
+	    display: flex;
+	    flex-direction: column;
+	    background: rgba(255,255,255,0.06);
+	    box-shadow: 0 8px 32px 0 rgba(31,38,135,.40);
+	    border-radius: 35px;
+	    border: 1px solid rgba(255,255,255,0.3);
+        font-family: Calibri; 
+  /* color:white;  */
+        font-size: 11pt; 
+        font-style: normal;
+        font-weight: bold;
+  /* text-align:;  */
+        background-color: none;
+        border-collapse: collapse; 
+        border: none;
+        border-radius: 15px;
+    }
+    form .input{
+        margin-left: 10px;
+    }
+
+    input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    }
+
+    input[type=text]:focus {
+    border: 3px solid #555;
+    }
+</style>
+</html>
