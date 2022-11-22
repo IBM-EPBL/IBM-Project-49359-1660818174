@@ -35,7 +35,7 @@
 
    **🧠Brain strom and Ideation**  
     
-   **📟Empathy Map:**   
+   **📟Empathy Map**   
 
    **💬Literature survey**   
        
@@ -100,6 +100,17 @@
    **🚩Sprint 3**  
     
    **🚩Sprint 4**
+   
+   # **💬Final Delivers**
+<button>
+    <a href="https://github.com/IBM-EPBL/IBM-Project-49359-1660818174/tree/main/Final%20Deliver ">CLICK HERE!  </a>
+</button>
+
+   **🧠Final Code**  
+    
+   **📟Project Report**   
+
+   **💬Video Link** 
 
     
 # **🛒ASSIGNMENT**
