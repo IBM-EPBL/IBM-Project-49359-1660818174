@@ -31,3 +31,6 @@
 
 **IBM DB2 storage function**s<br>
 <a href="https://ibb.co/BZpKsPs"><img src="https://i.ibb.co/vPFvzBz/Screenshot-2022-11-20-233840.png" alt="Screenshot-2022-11-20-233840" border="0"></a><br>
+
+**IBM DB2 storage function**s<br>
+<a href=""https://imgbb.com/"><img src="https://i.ibb.co/XCCdnWM/Screenshot-2022-11-24-194238.png" alt="Screenshot-2022-11-20-233840" border="0"></a><br>
